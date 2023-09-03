@@ -13,7 +13,7 @@
     {
       "id": "c67ab8a7",
       "title": "#BOOKI",
-      "cover": "/images/logo-booki.png",
+      "cover": "./images/logo-booki.png",
       "pictures": [
         "./images/booki01.webp",
         "./images/booki02.webp",
@@ -29,12 +29,12 @@
     {
       "id": "b9123946",
       "title": "#SOPHIE BLUEL",
-      "cover": "/images/logo-sbluel.png",
+      "cover": "./images/logo-sbluel.png",
       "pictures": [
-        "/images/sbluel01.webp",
-        "/images/sbluel02.webp",
-        "/images/sbluel03.webp",
-        "/images/sbluel04.webp"
+        "./images/sbluel01.webp",
+        "./images/sbluel02.webp",
+        "./images/sbluel03.webp",
+        "./images/sbluel04.webp"
       ],
       "description": [
         "Conception du site portfolio dynamique d’une architecte d’intérieur avec manipulation du DOM, la gestion des événements utilisateurs et récupération des données utilisateurs via des formulaires.",
@@ -47,11 +47,11 @@
     {
       "id": "b9123947",
       "title": "#MENU MAKER",
-      "cover": "/images/logo-qwenta.png",
+      "cover": "./images/logo-qwenta.png",
       "pictures": [
-        "/images/mmaker01.webp",
-        "/images/mmaker02.webp",
-        "/images/mmaker03.webp"
+        "./images/mmaker01.webp",
+        "./images/mmaker02.webp",
+        "./images/mmaker03.webp"
       ],
       "description": [
         "Mener, préparer et planifier le projet de développement d’un site selon la méthode agile.",
@@ -63,11 +63,11 @@
     {
       "id": "b9123948",
       "title": "#NINA CARDUCCI",
-      "cover": "/images/logo-ncarducci.png",
+      "cover": "./images/logo-ncarducci.png",
       "pictures": [
-        "/images/ncarducci01.webp",
-        "/images/ncarducci02.webp",
-        "/images/ncarducci03.webp"
+        "./images/ncarducci01.webp",
+        "./images/ncarducci02.webp",
+        "./images/ncarducci03.webp"
       ],
       "description": [
         "Débugage et Optimisation globale du site, tant sur les performances que sur le SEO.",
@@ -79,11 +79,11 @@
     {
       "id": "b9123949",
       "title": "#KASA",
-      "cover": "/images/logo-kasa.png",
+      "cover": "./images/logo-kasa.png",
       "pictures": [
-        "/images/kasa01.webp",
-        "/images/kasa02.webp",
-        "/images/kasa03.webp"
+        "./images/kasa01.webp",
+        "./images/kasa02.webp",
+        "./images/kasa03.webp"
       ],
       "description": [
         "Mise à jour d'une application web de location immobilière via la biblothèque React.",
@@ -95,11 +95,11 @@
     {
       "id": "b9123950",
       "title": "#MON VIEUX GRIMOIRE",
-      "cover": "/images/logo-mvgrimoire.png",
+      "cover": "./images/logo-mvgrimoire.png",
       "pictures": [
-        "/images/mvgrimoire01.webp",
-        "/images/mvgrimoire02.webp",
-        "/images/mvgrimoire03.webp"
+        "./images/mvgrimoire01.webp",
+        "./images/mvgrimoire02.webp",
+        "./images/mvgrimoire03.webp"
       ],
       "description": [
         "Développement du back-end d'un site de notation de livre selon l'architecture MERN (MongoDB,Express,React,Node).",
