@@ -1,0 +1,16 @@
+.galery-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 5rem;
+  margin: 1rem 2rem;
+  padding: 3rem;
+  background-color: #282c33;
+  border-radius: 5px;
+  border: 1px dotted #c778dd;
+  @media (max-width: 1024px) {
+    grid-template-columns: auto auto;
+  }
+  @media (max-width: 768px) {
+    grid-template-columns: auto;
+  }
+}

@@ -1,0 +1,40 @@
+.myshadow {
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+  color: #abb2bf;
+  font-weight: 300;
+  font-size: 30px;
+  padding: 5px 10px;
+  transition: color 0.3s;
+  border-radius: 5px;
+  border: 1px solid var(--border-color);
+  margin: 2rem;
+  @media (max-width: 768px) {
+    font-size: 20px;
+  }
+
+  &:hover {
+    color: rgb(93, 236, 10);
+    box-shadow: 5px 5px 0px 0px var(--border-color);
+    bottom: 5px;
+    right: 5px;
+  }
+  span {
+    color: var(--border-color);
+  }
+}
+
+.top-btn-position {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: var(--border-color);
+  height: 40px;
+  width: 40px;
+  z-index: 1;
+  &:hover {
+    color: rgb(241, 46, 209);
+    transform: scale(1.2);
+  }
+}

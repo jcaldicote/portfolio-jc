@@ -1,0 +1,44 @@
+.arrow {
+  &_left {
+    position: absolute;
+    margin-top: 3rem;
+    font-size: 30px;
+    color: var(--border-color);
+    cursor: pointer;
+    opacity: 0.5;
+  }
+  &_right {
+    position: absolute;
+    margin-top: 3rem;
+    right: 0.5rem;
+    font-size: 30px;
+    color: var(--border-color);
+    cursor: pointer;
+    opacity: 0.5;
+  }
+  img {
+    width: 100%;
+    object-fit: contain;
+    margin: 1rem 0;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .arrow {
+    &_left {
+      font-size: 15px;
+      margin-top: 2rem;
+    }
+    &_right {
+      font-size: 15px;
+      margin-top: 2rem;
+    }
+    img {
+      width: 100%;
+      object-fit: contain;
+      margin: 1rem 0;
+      height: 110px;
+    }
+  }
+}

@@ -1,0 +1,42 @@
+.home {
+  min-height: 20vh;
+  color: rgb(71, 173, 71);
+  margin-top: 3rem;
+  text-align: center;
+  font-size: x-large;
+  @media (max-width: 768px) {
+    font-size: 15px;
+  }
+  &__contact {
+    display: flex;
+    justify-content: center;
+    justify-content: last baseline;
+    gap: 1rem;
+    color: #fff;
+    font-size: 16px;
+    &_link {
+      border: dashed #c778dd 1px;
+      padding: 8px;
+      margin-top: 2rem;
+      transition: 0.3ms;
+      &:hover {
+        transform: scale(1.03);
+        border: solid #c778dd 1px;
+      }
+    }
+    &_cv {
+      border: dashed #c778dd 1px;
+      padding: 8px;
+      margin-top: 2rem;
+      transition: 0.3ms;
+      &:hover {
+        transform: scale(1.03);
+        border: solid #c778dd 1px;
+      }
+      a {
+        text-decoration: none;
+        color: white;
+      }
+    }
+  }
+}
