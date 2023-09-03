@@ -15,9 +15,9 @@
       "title": "#BOOKI",
       "cover": "/images/logo-booki.png",
       "pictures": [
-        "/images/booki01.webp",
-        "/images/booki02.webp",
-        "/images/booki03.webp"
+        "./images/booki01.webp",
+        "./images/booki02.webp",
+        "./images/booki03.webp"
       ],
       "description": [
         "Intégration d'une maquette d'un site de voyage en tenant compte des contraintes du design responsive.",
