@@ -5,7 +5,7 @@ import ErrorPage from "../pages/ErrorPage.jsx";
 
 export const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/portfolio-jc/",
     element: <Home />,
     errorElement: <ErrorPage />,
   },
