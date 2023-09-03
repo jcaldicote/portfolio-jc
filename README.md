@@ -2,7 +2,7 @@
 
 ## Lien vers le portfolio
 
-**Version hébergée:** https://jcaldicote.github.io/portfolio-cj/
+**Version hébergée:** https://jcaldicote.github.io/portfolio-jc/
 
 Site réalisé en **React JS** (JSX+SCSS) avec **Vite**
 
@@ -10,7 +10,7 @@ Site réalisé en **React JS** (JSX+SCSS) avec **Vite**
 
 Pour tester le site en local :
 
-1.Récupérer le repository ( https://github.com/jcaldicote/portfolio-cj.git)
+1.Récupérer le repository ( https://github.com/jcaldicote/portfolio-jc.git)
 
 2.npm install
 

@@ -103,7 +103,7 @@
       ],
       "description": [
         "Développement du back-end d'un site de notation de livres selon l'architecture MERN (MongoDB,Express,React,Node).",
-        "Mise en place des opérations CRUD de manière sécurisée: création et connexion à compte et intéraction sur les livres (création,modification,notation,suppression)."
+        "Mise en place des opérations CRUD de manière sécurisée: création et connexion à compte et interaction sur les livres (création,modification,notation,suppression)."
       ],
       "tags": ["Node", "Express", "MongoDb", "BackEnd", "Securité"],
       "github": "https://github.com/jcaldicote/P7-mon-vieux-grimoire"
