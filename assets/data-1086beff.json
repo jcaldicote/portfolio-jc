@@ -1,10 +1,10 @@
 {
   "skills": [
     {
-      "languages": ["Javascript"],
+      "languages": ["Html", "Css", "Javascript", "Scss", "Jsx"],
       "databases": ["MongoDB"],
-      "frameworks": ["React", "Express", "Node"],
-      "other": ["Html", "Css", "Scss", "Jsx"],
+      "frameworks": ["React js", "Express", "Node"],
+      "other": ["Windows", "Linux"],
       "tools": ["VSCode", "Git", "Figma", "Font Awesome", "Linux"]
     }
   ],
