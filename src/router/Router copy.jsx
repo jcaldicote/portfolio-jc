@@ -7,9 +7,6 @@ export const router = createBrowserRouter([
   {
     path: "/portfolio-jc/",
     element: <Home />,
-  },
-  {
-    path: "*",
-    element: <ErrorPage />,
+    errorElement: <ErrorPage />,
   },
 ]);

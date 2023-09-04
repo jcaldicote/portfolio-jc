@@ -8,7 +8,7 @@ function ErrorPage() {
       <p className="message__error">
         Oups! La page que vous demandez n'existe pas.
       </p>
-      <NavLink to="/portfolio-jc/" className="message__back">
+      <NavLink to="/" className="message__back">
         #Retournez sur la page d'accueil.
       </NavLink>
     </div>

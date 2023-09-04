@@ -8,7 +8,6 @@ import Footer from "../components/Footer.jsx";
 import Skills from "../components/Skills.jsx";
 import About from "../components/About.jsx";
 import ScrollToTop from "../components/ScrollToTop.jsx";
-import ScrollingText from "../components/ScrollingText.jsx";
 
 const Home = () => {
   return (
