@@ -9,21 +9,21 @@ const About = () => {
       </div>
       <div className="text-frame">
         <p className="text">
-          Après avoir accumulé une expérience enrichissante de 20 ans dans le
-          domaine des télécommunications, j'ai décidé d'entreprendre une
-          passionnante reconversion dans le développement web. Cette transition
-          marque le début d'une aventure fascinante dans le monde de la
-          programmation. Ma soif d'apprendre et mon désir de créer des
-          expériences numériques exceptionnelles me motivent chaque jour. Grâce
-          à des mois d'efforts et de formation chez Openclassrooms, je suis
-          désormais capable de concevoir des sites web dynamiques, d'optimiser
-          le référencement, et de résoudre des problèmes complexes en codant.
+          Avec 20 ans d'expérience enrichissante dans les télécoms, j'ai
+          entrepris une passionnante reconversion vers le développement web,
+          marquant le début d'une fascinante aventure en programmation.
         </p>
         <p className="text">
-          Je suis enthousiaste à l'idée de collaborer sur des projets innovants
-          et de contribuer à la transformation numérique de notre monde. Mon
-          aventure dans le développement web ne fait que commencer, et je suis
-          prêt à relever de nouveaux défis excitants.
+          Après des mois d'efforts et de formation chez Openclassrooms, je suis
+          devenu un développeur web full-stack JavaScript, capable de concevoir
+          des sites web dynamiques, d'optimiser le référencement, et de résoudre
+          des problèmes complexes en codant.
+        </p>
+        <p className="text">
+          Je suis enthousiaste à l'idée de contribuer à des projets innovants
+          pour les entreprises dans le cadre de la transformation numérique. Mon
+          voyage dans le développement web est au début, et j'attends avec
+          impatience de nouveaux défis passionnants.
         </p>
       </div>
     </div>
