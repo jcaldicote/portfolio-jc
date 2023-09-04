@@ -8,7 +8,11 @@
       "tools": ["VSCode", "Git", "Figma", "Font Awesome", "Linux"]
     }
   ],
-  "words": ["#Hello,je suis Joseph", "#Développeur Web", "#FrontEnd - BackEnd"],
+  "words": [
+    "#Hello,je suis Joseph Caldicote",
+    "#Développeur Web",
+    "#FrontEnd - BackEnd"
+  ],
   "projects": [
     {
       "id": "c67ab8a7",
