@@ -11,7 +11,7 @@ const Contact = () => {
       </div>
       <div className="contact-item">
         <button className="contact-button">
-          <a href="mailto:caldicote.contact@gmail.com">Envoyer un e-mail</a>
+          <a href="mailto:caldicote.contact@gmail.com">Envoyer moi un e-mail</a>
         </button>
       </div>
       <div className="contact-item">
@@ -23,6 +23,7 @@ const Contact = () => {
         >
           <FaGithub />
         </a>
+        <span>Lien Github</span>
         <a
           href="https://www.linkedin.com/in/jcaldicote"
           target="_blank"
@@ -31,6 +32,7 @@ const Contact = () => {
         >
           <FaLinkedin />
         </a>
+        <span>Lien Linkedin</span>
       </div>
     </div>
   );
