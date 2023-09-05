@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="logo">
-        <img src="./jcaldicote-logo.webp" alt="logo" />
+        <img src="./jcaldicote-logo5.webp" alt="logo" />
       </div>
       <ul className="nav-links">
         <li>
