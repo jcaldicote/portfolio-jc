@@ -22,7 +22,7 @@ const Banner = () => {
           </Link>
         </div>
         <div className="home__contact_cv">
-          <a href="/jcaldicote-cv.pdf" target="_blank">
+          <a href="/portfolio-jc/jcaldicote-cv.pdf" target="_blank">
             #Cv
           </a>
         </div>
