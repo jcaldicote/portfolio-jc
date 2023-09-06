@@ -16,11 +16,11 @@ const Home = () => {
       <Navbar />
       <Banner />
       <div className="myshadow" id="projects">
-        <span>#</span>projets
+        <span>#</span>mes projets
       </div>
       <Projects />
       <div className="myshadow" id="skills">
-        <span>#</span>compétences
+        <span>#</span>mes compétences
       </div>
       <Skills />
       <div className="myshadow" id="about">
