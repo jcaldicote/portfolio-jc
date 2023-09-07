@@ -25,7 +25,7 @@ const Contact = () => {
         </a>
         <span>Lien Github</span>
         <a
-          href="https://www.linkedin.com/in/jcaldicote"
+          href="https://www.linkedin.com/in/joseph-caldicote-a05447290/"
           target="_blank"
           rel="noopener noreferrer"
           className="contact-icon"
